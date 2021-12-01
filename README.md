@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mkhanooo
+- 👋 Hi, I’m Muhammad Khan
 - 👀 I’m interested in React Js, React Native, Flutter
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on ...
