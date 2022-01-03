@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Muhammad Khan
-- 👀 I’m interested in React Js, React Native, Flutter
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Muhammad Khan.
+- 👀 I’m interested in Elixir and Phoenix.
+- 🌱 I’m currently learning Elixir, Phoenix.
+- 💞️ I’m looking to collaborate on Elixir, Phoenix.
 - 📫 How to reach me mkhan2khan@gmail.com
 
 <!---
