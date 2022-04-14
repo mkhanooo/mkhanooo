@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Khan.
 - 👀 I’m interested in Elixir and Phoenix.
-- 🌱 I’m currently learning Elixir, Phoenix.
-- 💞️ I’m looking to collaborate on Elixir, Phoenix.
+- 🌱 I’m currently learning React Native Elixir, Phoenix.
+- 💞️ I’m looking to collaborate on React Js, React Native Elixir, Phoenix.
 - 📫 How to reach me mkhan2khan@gmail.com
 
 <!---
